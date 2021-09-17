@@ -1,0 +1,95 @@
+{
+    "goods" : [
+        {
+            "image":"image/necklake1-removebg-preview.png",
+            "color":"silver",
+            "type":"necklace",
+            "price": 349
+        },
+        {
+            "image":"image/necklake2-removebg-preview.png",
+            "color":"silver",
+            "type":"necklace",
+            "price": 349
+        },
+        {
+            "image":"image/necklake3-removebg-preview.png",
+            "color":"silver",
+            "type":"necklace",
+            "price": 349
+        },
+        {
+            "image":"image/necklake4-g-removebg-preview.png",
+            "color":"gold",
+            "type":"necklace",
+            "price": 349
+        },
+        {
+            "image":"image/necklake5-g-removebg-preview.png",
+            "color":"gold",
+            "type":"necklace",
+            "price": 349
+        },
+        {
+            "image":"image/necklake6-g-removebg-preview.png",
+            "color":"gold",
+            "type":"necklace",
+            "price": 349
+        },
+        {
+            "image":"image/ring1-removebg-preview.png",
+            "color":"silver",
+            "type":"ring",
+            "price": 349
+        },
+        {
+            "image":"image/ring2-removebg-preview.png",
+            "color":"silver",
+            "type":"ring",
+            "price": 349
+        },
+        {
+            "image":"image/ring3-g-removebg-preview.png",
+            "color":"gold",
+            "type":"ring",
+            "price": 349
+        },
+        {
+            "image":"image/ring4-removebg-preview.png",
+            "color":"silver",
+            "type":"ring",
+            "price": 349
+        },
+        {
+            "image":"image/ring5-g-removebg-preview.png",
+            "color":"gold",
+            "type":"ring",
+            "price": 349
+        },
+        {
+            "image":"image/ring6-removebg-preview.png",
+            "color":"silver",
+            "type":"ring",
+            "price": 349
+        },
+        {
+            "image":"image/ring7-removebg-preview.png",
+            "color":"silver",
+            "type":"ring",
+            "price": 349
+        },
+        {
+            "image":"image/ring8-g-removebg-preview.png",
+            "color":"gold",
+            "type":"ring",
+            "price": 349
+        },
+        {
+            "image":"image/ring10-g-removebg-preview.png",
+            "color":"gold",
+            "type":"ring",
+            "price": 349
+        }
+
+    ]
+}
